@@ -1,2 +1,3 @@
-./СonsoleApp/ConsoleApp/bin
-./СonsoleApp/ConsoleApp/obj
+ConsoleApp/ConsoleApp/obj
+ConsoleApp/ConsoleApp/bin
+project.lock.json
